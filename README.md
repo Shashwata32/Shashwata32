@@ -51,8 +51,8 @@ Explore more: [github.com/Shashwata32?tab=repositories](https://github.com/Shash
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashwata32&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwata32&theme=github-dark-blue" width="48%" />
 </p>
 
 ---
