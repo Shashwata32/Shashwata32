@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 | Name | Description | Tech |
 |------|-------------|------|
-| 🛠️ **Zync** | Real-time chat-application with WebSocket | Socket-io, JS, MongoDB |
-| 💬 **Masonyx** | Live chat with login/signup and REST APIs | Node.js, Flask, JS |
+| 🛠️ **Zync** | Real-time chat-application with WebSocket | Socket-io, Express.js, HTML, CSS, VanillaJS |
+| 💬 **Masonyx** | Live chat with login/signup and REST APIs | Python, Flask, JS |
 | 📱 **QR-Code-Generator** | Generates QR codes from texts and URL and u can download it as well | HTML, CSS and Javascript |
 
 Explore more: [github.com/Shashwata32?tab=repositories](https://github.com/Shashwata32?tab=repositories)
