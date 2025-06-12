@@ -59,7 +59,7 @@ Explore more: [github.com/Shashwata32?tab=repositories](https://github.com/Shash
 
 ### 📫 Connect With Me
 
-- Email: [mishrashashwata32@gmail.com]
+- Email: mishrashashwata32@gmail.com
 - LinkedIn: [linkedin.com/in/shashwatamishra/](https://linkedin.com/in/shashwatamishra/)
 - GitHub: [github.com/Shashwata32](https://github.com/Shashwata32)
 
