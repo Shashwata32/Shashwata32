@@ -56,7 +56,7 @@ Explore more: [github.com/Shashwata32?tab=repositories](https://github.com/Shash
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwata32&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwata32&layout=compact&theme=radical" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
