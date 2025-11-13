@@ -48,23 +48,6 @@ Explore more: [github.com/Shashwata32?tab=repositories](https://github.com/Shash
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashwata32&show_icons=true&theme=radical&hide=stars&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwata32&theme=radical" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwata32&layout=compact&theme=radical" width="40%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashwata32&theme=radical&no-frame=true&column=7" alt="Trophies" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 - Email: mishrashashwata32@gmail.com
